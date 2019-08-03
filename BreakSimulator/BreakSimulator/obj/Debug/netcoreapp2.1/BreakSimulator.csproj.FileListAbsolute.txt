@@ -1,0 +1,11 @@
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.1\BreakSimulator.deps.json
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.1\BreakSimulator.runtimeconfig.json
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.1\BreakSimulator.runtimeconfig.dev.json
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.1\BreakSimulator.dll
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\bin\Debug\netcoreapp2.1\BreakSimulator.pdb
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.1\BreakSimulator.csprojAssemblyReference.cache
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.1\BreakSimulator.csproj.CoreCompileInputs.cache
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.1\BreakSimulator.AssemblyInfoInputs.cache
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.1\BreakSimulator.AssemblyInfo.cs
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.1\BreakSimulator.dll
+F:\Workplace\C#\Batch2\Assignment\BreakSimulator\BreakSimulator\obj\Debug\netcoreapp2.1\BreakSimulator.pdb
