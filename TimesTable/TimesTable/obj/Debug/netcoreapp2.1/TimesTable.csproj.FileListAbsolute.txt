@@ -1,0 +1,11 @@
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.deps.json
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.runtimeconfig.json
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.runtimeconfig.dev.json
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.dll
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\bin\Debug\netcoreapp2.1\TimesTable.pdb
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.csprojAssemblyReference.cache
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.csproj.CoreCompileInputs.cache
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.AssemblyInfoInputs.cache
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.AssemblyInfo.cs
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.dll
+F:\Workplace\C#\Batch2\Assignment\TimesTable\TimesTable\obj\Debug\netcoreapp2.1\TimesTable.pdb
